@@ -15,8 +15,8 @@
 
 
 </header>
+Bonsoir
 <div>
-<ul>
   <li><a class="active" href="index.php">Accueil</a></li>
   <li><a href="planning.php">Planning </a></li>
   <li><a href="services.php">Services </a></li>
